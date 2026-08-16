@@ -1,9 +1,9 @@
 [submodule "user-service"]
 	path = user-service
-	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/backend-services/user-service
+	url = https://github.com/SmartPark-Dev-Org/user-service.git
 [submodule "parking-facility-service"]
 	path = parking-facility-service
-	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/backend-services/parking-facility-service
+	url = https://github.com/SmartPark-Dev-Org/parking-facility-service.git
 [submodule "reservation-billing-service"]
 	path = reservation-billing-service
-	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/backend-services/reservation-billing-service
+	url = https://github.com/SmartPark-Dev-Org/reservation-billing-service.git
