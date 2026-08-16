@@ -1,0 +1,9 @@
+[submodule "user-service"]
+	path = user-service
+	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/backend-services/user-service
+[submodule "parking-facility-service"]
+	path = parking-facility-service
+	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/backend-services/parking-facility-service
+[submodule "reservation-billing-service"]
+	path = reservation-billing-service
+	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/backend-services/reservation-billing-service
